@@ -1,6 +1,3 @@
-<!--Connection to database 
-Create Table users and Usermeta-->
-
 <?php
 class dbConnect{
         private $host = "localhost";

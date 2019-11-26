@@ -1,4 +1,3 @@
-<!--all the curd operations queries code will here and after registrtion user will insert into users table-->
 
 <?php 
 require_once ("C:\wamp\www\My-MVC\Model\queriesCrud.php");

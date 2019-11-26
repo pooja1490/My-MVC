@@ -1,11 +1,3 @@
-<!--All the data coming form will be collected here and perform action accordingly
-
-1. if user coming form login then check if user is existing or not if not then dipsaply essage you need to signup
-2. When user clicks on signup Register page will display
-3. after registration user will redirect to dashboard if the user is succesfully created.
-4. on dasboard page user will be able to see all the users deatils and can perform update and delete operation on the same.
-4. logout page. -->
-
 <?php
 require_once ("../Model/dbConnect.php"); 
 require_once ("../Model/queriesCrud.php");
